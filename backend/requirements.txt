@@ -1,0 +1,13 @@
+django==6.0.5
+djangorestframework==3.17.1
+djangorestframework-simplejwt==5.5.1
+drf-spectacular==0.29.0
+django-cors-headers==4.9.0
+python-decouple==3.8
+Pillow==12.0.0
+google-genai
+cadquery
+pymupdf
+opencv-python
+numpy
+python-dotenv
